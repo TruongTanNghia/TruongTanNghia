@@ -1,4 +1,9 @@
 ### 
+<link rel="stylesheet" href="./Style/style.css" />
+<div class="block glow">
+      <H1>CSS Glowing Border <br>
+        Animation On <br>Images</H1>
+    </div>
 <h1> Hi I Am TẤN NGHĨA 👋 </h1>
 <!--
 **TruongTanNghia/TruongTanNghia** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
