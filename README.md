@@ -3,7 +3,7 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
 <a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=TruongTanNghia&label=Profile%20Views&color=0&icon=0&pretty=true" />
+  <img src="https://visitcount.itsvg.in/api?id=TruongTanNghia&label=Profile%20Views&color=0&icon=6&pretty=true" />
 </a>
 
 # 💻Tech Stack
@@ -19,7 +19,9 @@
 ### ✍️Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight)
 
-
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=TruongTanNghia&label=Profile%20Views&color=0&icon=6&pretty=true" />
+</a>
 
   ## 💰You can help me by Donating
   [![BuyMeACoffee](https://img.shields.io/badge/Buy%20Me%20a%20Coffee-ffdd00?style=for-the-badge&logo=buy-me-a-coffee&logoColor=black)](https://buymeacoffee.com/TRUONGTANNGHIA) [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/tannghiaxp@gmail.com)
