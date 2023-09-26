@@ -1,6 +1,6 @@
 <center>
   
-## Hi I'm Truong Tan Nghia ![image](https://github.com/TruongTanNghia/TruongTanNghia/assets/92427686/1e0839a2-eb75-4343-8170-07e695c3c7a8)
+## Hi I'm Truong Tan Nghia 
 
   
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/tannghia) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tannghiaaaa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/olld.man.teddy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Teddy) 
