@@ -4,9 +4,42 @@
 <a target="_blank" rel="noopener noreferrer nofollow" href="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" data-target="animated-image.originalLink"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
 
 [![](https://visitcount.itsvg.in/api?id=TruongTanNghia&icon=0&color=0)](https://visitcount.itsvg.in)
-
-# 💻Tech Stack
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+<div > 
+<h1> 💻Programming Languages Showcase </h1>
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,ts" />
+  </a>
+</p>
+</div>
+<br/>
+<div > 
+<h1> 🌌FRAMEWORKS, PLATFORMS & LIBRARIES</h1>
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=nextjs,react,tailwind,tensorflow,pytorch,redux" />
+  </a>
+</p>
+</div>
+<br/>
+<div > 
+<h1>🔥OS & IDE & TOOlS </h1>
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=figma,postman,vite,vscode,linux" />
+  </a>
+</p>
+</div>
+<br/>
+<div > 
+<h1>🤖 Source code management </h1>
+<p >
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=github,git" />
+  </a>
+</p>
+</div>
+<br/>
 
 ![INTRO](https://github.com/TruongTanNghia/TruongTanNghia/assets/92427686/5fec5021-f2b7-47ec-a6ce-bc657022038a)
 
