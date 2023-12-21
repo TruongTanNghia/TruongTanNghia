@@ -49,7 +49,8 @@
 
 <div align="center "> 
   
- ![](https://github-readme-stats.vercel.app/api?username=truongtannghia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true)  ![](https://github-readme-stats.vercel.app/api/top-langs/?username=truongtannghia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact) 
+ ![](https://github-readme-stats.vercel.app/api?username=truongtannghia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true) 
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=truongtannghia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
   
 </div>
 
