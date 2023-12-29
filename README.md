@@ -48,12 +48,19 @@
 # ✍️Random Dev Quote & 📊GitHub Stats  
 
 <div align="center "> 
-  
- ![](https://github-readme-stats.vercel.app/api?username=truongtannghia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true) 
-<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=truongtannghia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
-  
-</div>
 
+  <img style="display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width:70% ;
+  grid-column: 1/-1;" 
+     src="https://github-readme-stats.vercel.app/api?username=truongtannghia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true" width="auto" height="auto" />
+     
+<!-- ![](https://github-readme-stats.vercel.app/api?username=truongtannghia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true) -->
+<!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=truongtannghia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
+</div>
+<img align="left" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="35%" height="35%" />
+<img align="right" alt="GIF" src="https://github.com/letdtcode/letdtcode/blob/main/giphy.gif?raw=true" width="35%" height="35%" />
 
 
 <!--![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=tokyonight) -->
