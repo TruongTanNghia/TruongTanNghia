@@ -15,7 +15,7 @@
 <h1> 💻Programming Languages Showcase </h1>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,html,css,python,ts" />
+    <img src="https://skillicons.dev/icons?i=js,html,css,python,ts,c" />
   </a>
 </p>
 
