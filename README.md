@@ -1,4 +1,4 @@
-<div align="center">  
+<div align="center">   
 <a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=27&duration=5005&pause=1000&color=10F7DD&background=FFFFFF00&random=true&width=435&lines=Hi+I'm+Truong+Tan+Nghia%F0%9F%8C%84;I'm+A+Web+Developer%F0%9F%8C%A0;Never+Give+Up+On+Your+Dreams%F0%9F%94%A5" alt="Typing SVG" />
                      
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](htttps://discord.gg/tannghia) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/tannghiaaaa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/olld.man.teddy) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@Teddy) 
