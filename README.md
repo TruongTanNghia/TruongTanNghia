@@ -59,7 +59,7 @@
 
 <div align="center "> 
 
-  <img style="display: block;
+  <img style="display: block;  
   margin-left: auto;
   margin-right: auto;
   width:70% ;
