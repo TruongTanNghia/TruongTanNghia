@@ -69,6 +69,7 @@
 <!-- ![](https://github-readme-stats.vercel.app/api?username=truongtannghia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true) -->
 <!-- ![](https://github-readme-stats.vercel.app/api/top-langs/?username=truongtannghia&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=true&layout=compact) -->
 </div>
+<img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage">
 <img align="left" alt="GIF" src="https://github.com/Gapur/Gapur/blob/master/coding.gif?raw=true" width="35%" height="35%" />
 <img align="right" alt="GIF" src="https://github.com/letdtcode/letdtcode/blob/main/giphy.gif?raw=true" width="35%" height="35%" />
 
