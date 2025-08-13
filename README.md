@@ -11,7 +11,7 @@
 [![](https://visitcount.itsvg.in/api?id=TruongTanNghia&icon=0&color=0)](https://visitcount.itsvg.in)  
 
 <div align="center" dir="auto">
-  <animated-image data-catalyst="" style="width: 90%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/86f33f14048faa4a60a13f08d4b98088db62cf8d4183afbd7b87975b78e4f73e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38302f37382f61322f38303738613238363262636235653930343166666263313266373966326261652e676966" data-target="animated-image.originalLink"><img src="https://camo.githubusercontent.com/86f33f14048faa4a60a13f08d4b98088db62cf8d4183afbd7b87975b78e4f73e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38302f37382f61322f38303738613238363262636235653930343166666263313266373966326261652e676966" alt="TikTok" data-canonical-src="https://i.pinimg.com/originals/80/78/a2/8078a2862bcb5e9041ffbc12f79f2bae.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
+  <animated-image data-catalyst="" style="width: 90%;"><a target="_blank" rel="noopener noreferrer nofollow" href="https://www.tiktok.com/@aihoclaptrinh" data-target="animated-image.originalLink"><img src="https://www.tiktok.com/@aihoclaptrinh" alt="TikTok" data-canonical-src="https://i.pinimg.com/originals/80/78/a2/8078a2862bcb5e9041ffbc12f79f2bae.gif" style="max-width: 100%; display: inline-block;" data-target="animated-image.originalImage"></a>
       <span class="AnimatedImagePlayer" data-target="animated-image.player" hidden="">
         <a data-target="animated-image.replacedLink" class="AnimatedImagePlayer-images" href="https://www.tiktok.com/@aihoclaptrinh" target="_blank">
         <span data-target="animated-image.imageContainer">
@@ -27,7 +27,7 @@
               <rect x="9" y="2" width="3" height="12" rx="1"></rect>
             </svg>
           </button>
-          <a data-target="animated-image.openButton" aria-label="Open TikTok in new window" class="AnimatedImagePlayer-button" href="https://camo.githubusercontent.com/86f33f14048faa4a60a13f08d4b98088db62cf8d4183afbd7b87975b78e4f73e/68747470733a2f2f692e70696e696d672e636f6d2f6f726967696e616c732f38302f37382f61322f38303738613238363262636235653930343166666263313266373966326261652e676966" target="_blank">
+          <a data-target="animated-image.openButton" aria-label="Open TikTok in new window" class="AnimatedImagePlayer-button" href="https://www.tiktok.com/@aihoclaptrinh" target="_blank">
             <svg aria-hidden="true" class="octicon" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 16 16" width="16" height="16">
               <path fill-rule="evenodd" d="M10.604 1h4.146a.25.25 0 01.25.25v4.146a.25.25 0 01-.427.177L13.03 4.03 9.28 7.78a.75.75 0 01-1.06-1.06l3.75-3.75-1.543-1.543A.25.25 0 0110.604 1zM3.75 2A1.75 1.75 0 002 3.75v8.5c0 .966.784 1.75 1.75 1.75h8.5A1.75 1.75 0 0014 12.25v-3.5a.75.75 0 00-1.5 0v3.5a.25.25 0 01-.25.25h-8.5a.25.25 0 01-.25-.25v-8.5a.25.25 0 01.25-.25h3.5a.75.75 0 000-1.5h-3.5z"></path>
             </svg>
